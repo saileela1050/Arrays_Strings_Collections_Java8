@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="09b9b469-4040-4e28-b30b-2c8e01e5b24a" name="Changes" comment="Basic programs">
+      <change afterPath="$PROJECT_DIR$/Java/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/arrays/ArrayFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/arrays/ArrayIntersection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/arrays/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/arrays/DuplicateElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/arrays/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/arrays/MaximumSubArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/arrays/MergeSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/arrays/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/arrays/MoveZeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/arrays/PairSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/arrays/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/arrays/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/arrays/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/arrays/SecondLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/arrays/SecondSmallest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/arrays/ThirdLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/collections/CommonElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/collections/CustomComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/collections/ElementFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/collections/EmployeeHashset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/collections/FindDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/collections/FirstNonRepeated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/collections/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/collections/SortEmployees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/collections/SortHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/collections/SortList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/java8/EvenOddStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/numbers/ArmStrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/numbers/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/numbers/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/numbers/GcdLcm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/numbers/NumberPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/numbers/PerfectNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/numbers/PowerOfTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/numbers/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/numbers/PrimeNumbersInRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/numbers/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/numbers/SumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/strings/AnagramCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/strings/CharacterFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/strings/DuplicateCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/strings/FirstNonRepeatedCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/strings/FirstRepeatedCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/strings/LongestSubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/strings/RemoveDuplicateCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/strings/ReverseEachword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/strings/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/strings/ReverseStringUsingSB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/strings/StringPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/strings/StringRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/main/java/com/example/strings/VowelsAndConsonants.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.2993696761547322" />
+      <entry key="MS500" value="1.7860260172012206" />
+      <entry key="S2" value="2.0799429828375784" />
+      <entry key="S5" value="2.504422321152783" />
+      <entry key="S10" value="3.0861315745252975" />
+      <entry key="S30" value="5.720198199833721" />
+      <entry key="S60" value="9.292147091318354" />
+      <entry key="M2" value="14.6048380904828" />
+      <entry key="M5" value="30.56162407782801" />
+      <entry key="M10" value="60.81039030018676" />
+      <entry key="M15" value="91.5823910711111" />
+      <entry key="M30" value="174.26487552496894" />
+      <entry key="H1" value="288.25677637066724" />
+      <entry key="H2" value="404.30265183847473" />
+      <entry key="H4" value="543.8589370119987" />
+      <entry key="D1" value="1698.0310990143269" />
+      <entry key="W1" value="3520.7287104554043" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="2.826313354212976E-15" />
+      <entry key="MS500" value="0.0012543885628439346" />
+      <entry key="S2" value="0.2853553067692558" />
+      <entry key="S5" value="1.2351805344102942" />
+      <entry key="S10" value="2.4779527086441555" />
+      <entry key="S30" value="5.641910772496611" />
+      <entry key="S60" value="8.703154984965483" />
+      <entry key="M2" value="12.498693526053016" />
+      <entry key="M5" value="21.189416801786383" />
+      <entry key="M10" value="37.08555488786404" />
+      <entry key="M15" value="53.896489097129866" />
+      <entry key="M30" value="99.5456822862883" />
+      <entry key="H1" value="160.99870847963" />
+      <entry key="H2" value="222.1553227930252" />
+      <entry key="H4" value="294.0223049319553" />
+      <entry key="D1" value="881.4805868125624" />
+      <entry key="W1" value="1678.986927086862" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.3544782786185364" />
+      <entry key="MS500" value="1.191936260446181" />
+      <entry key="S2" value="2.035427197896992" />
+      <entry key="S5" value="3.423855643811614" />
+      <entry key="S10" value="5.276077959759322" />
+      <entry key="S30" value="11.120545533679156" />
+      <entry key="S60" value="17.790237514506888" />
+      <entry key="M2" value="26.945945128847352" />
+      <entry key="M5" value="51.63548679584083" />
+      <entry key="M10" value="97.78773446547801" />
+      <entry key="M15" value="145.37115133490158" />
+      <entry key="M30" value="273.7106916316186" />
+      <entry key="H1" value="449.17696028078814" />
+      <entry key="H2" value="626.4053704421598" />
+      <entry key="H4" value="837.8472837349409" />
+      <entry key="D1" value="2579.4940176426353" />
+      <entry key="W1" value="5199.71041676436" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Kzc5AdwWzwJ7CA7FDW2wsyjb7t" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.AllPrimeNumbers.executor": "Run",
+    "Application.AnagramCheck.executor": "Run",
+    "Application.AnagramsOrNot.executor": "Run",
+    "Application.ArmStrongNumber.executor": "Run",
+    "Application.ArmStrongOrNot.executor": "Run",
+    "Application.ArrayFrequency.executor": "Run",
+    "Application.ArrayIntersection.executor": "Run",
+    "Application.BinaryToDecimal.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
+    "Application.CharacterFrequency.executor": "Run",
+    "Application.CommonElements.executor": "Run",
+    "Application.CommonElementsArrays.executor": "Run",
+    "Application.CountCharacterInString.executor": "Run",
+    "Application.CountFrequencyWord.executor": "Run",
+    "Application.CountUpperLowerCase.executor": "Run",
+    "Application.CountVowelsConsonants.executor": "Run",
+    "Application.CountWordsInString.executor": "Run",
+    "Application.CustomComparator.executor": "Run",
+    "Application.DecimalNumberToBinary.executor": "Run",
+    "Application.DuplicateCharacters.executor": "Run",
+    "Application.DuplicateCharactersInString.executor": "Run",
+    "Application.DuplicateElements.executor": "Run",
+    "Application.DuplicateWords.executor": "Run",
+    "Application.DuplicatesArray.executor": "Run",
+    "Application.DuplicatesCharactersInString.executor": "Run",
+    "Application.DuplicatesElements.executor": "Run",
+    "Application.ElementFrequency.executor": "Run",
+    "Application.EmployeeHashset.executor": "Run",
+    "Application.EvenOddStreams.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.FactorialNumber.executor": "Run",
+    "Application.Fibonacci.executor": "Run",
+    "Application.FibonacciSeries.executor": "Run",
+    "Application.FindDuplicates.executor": "Run",
+    "Application.FirstNonRepeated.executor": "Run",
+    "Application.FirstNonRepeatedCharacter.executor": "Run",
+    "Application.FirstNonRepeatingCharacter.executor": "Run",
+    "Application.FirstNonRepeatingElement.executor": "Run",
+    "Application.FirstRepeatedCharacter.executor": "Run",
+    "Application.Frequency.executor": "Run",
+    "Application.FrequencyEachCharacter.executor": "Run",
+    "Application.FrequencyOfEachElement.executor": "Run",
+    "Application.GcdLcm.executor": "Run",
+    "Application.GcdNumbers.executor": "Run",
+    "Application.IntersectionArrays.executor": "Run",
+    "Application.IntersectionWithoutDuplicates.executor": "Run",
+    "Application.Largest.executor": "Run",
+    "Application.LargestSmallest.executor": "Run",
+    "Application.LcmNumbers.executor": "Run",
+    "Application.LeapYearOrNot.executor": "Run",
+    "Application.LongSubstring.executor": "Run",
+    "Application.LongestSubString.executor": "Run",
+    "Application.LongestWordInSentence.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MajorityElement.executor": "Run",
+    "Application.MaximumDiffBtwTwoElements.executor": "Run",
+    "Application.MaximumDifference.executor": "Run",
+    "Application.MaximumSubArraySum.executor": "Run",
+    "Application.MergeSortedArrays.executor": "Run",
+    "Application.MergeTwoArrays.executor": "Run",
+    "Application.MergeTwoArraysIntoSingle.executor": "Run",
+    "Application.MisiingNumbers.executor": "Run",
+    "Application.MissingNumber.executor": "Run",
+    "Application.MissingNumbers.executor": "Run",
+    "Application.MostRepeatedElement.executor": "Run",
+    "Application.MoveAllZeros.executor": "Run",
+    "Application.MoveZeros.executor": "Run",
+    "Application.MultiplicationTable.executor": "Run",
+    "Application.NonRepeatingElement.executor": "Run",
+    "Application.NumberDigits.executor": "Run",
+    "Application.NumberEvenOrOdd.executor": "Run",
+    "Application.NumberPalindrome.executor": "Run",
+    "Application.OneStringRotationAnother.executor": "Run",
+    "Application.PairSum.executor": "Run",
+    "Application.PalindromeNumberOrNot.executor": "Run",
+    "Application.PalindromeOrNot.executor": "Run",
+    "Application.PalindromeWithoutReverseString.executor": "Run",
+    "Application.PerfectNumber.executor": "Run",
+    "Application.PerfectNumberOrNot.executor": "Run",
+    "Application.PowerOfNumber.executor": "Run",
+    "Application.PowerOfTwo.executor": "Run",
+    "Application.PrimeNumber.executor": "Run",
+    "Application.PrimeNumberOrNot.executor": "Run",
+    "Application.PrimeNumbersInRange.executor": "Run",
+    "Application.RemoveDuplicateCharacters.executor": "Run",
+    "Application.RemoveDuplicates.executor": "Run",
+    "Application.ReverseArray.executor": "Run",
+    "Application.ReverseEachWord.executor": "Run",
+    "Application.ReverseEachword.executor": "Run",
+    "Application.ReverseNumber.executor": "Run",
+    "Application.ReverseString.executor": "Run",
+    "Application.ReverseStringUsingSB.executor": "Run",
+    "Application.ReverseStringWithoutUsingBuilder.executor": "Run",
+    "Application.ReverseWords.executor": "Run",
+    "Application.RotateArray.executor": "Run",
+    "Application.RotateArrayLeft.executor": "Run",
+    "Application.RotateArrayRight.executor": "Run",
+    "Application.RotateToLeftByOnePosition.executor": "Run",
+    "Application.RotateToRightByOnePosition.executor": "Run",
+    "Application.SecondLargest.executor": "Run",
+    "Application.SecondLargestElement.executor": "Run",
+    "Application.SecondSmallest.executor": "Run",
+    "Application.Smallest.executor": "Run",
+    "Application.SortEmployees.executor": "Run",
+    "Application.SortHashMap.executor": "Run",
+    "Application.SortList.executor": "Run",
+    "Application.SortedArray.executor": "Run",
+    "Application.StringContainsDigitsOrNot.executor": "Run",
+    "Application.StringPalindrome.executor": "Run",
+    "Application.StringRotation.executor": "Run",
+    "Application.StrongNumberOrNot.executor": "Run",
+    "Application.SumDigitsNumbers.executor": "Run",
+    "Application.SumEqualsTargetValue.executor": "Run",
+    "Application.SumOfDigits.executor": "Run",
+    "Application.SwapNumbersWithoutThird.executor": "Run",
+    "Application.ThirdLargest.executor": "Run",
+    "Application.ThirdLargestDistinct.executor": "Run",
+    "Application.ThirdLargestElements.executor": "Run",
+    "Application.TwoNumbersSumEqulasToTarget.executor": "Run",
+    "Application.VowelsAndConsonants.executor": "Run",
+    "Application.com.java.basic.strings.FirstNonRepeatingCharacter.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/sai-leela/Desktop/Java_Programming",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/home/sai-leela/Desktop/Java_Programming/Java/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EvenOddStreams">
+    <configuration name="CommonElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.collections.CommonElements" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.collections.CustomComparator" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeHashset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.collections.EmployeeHashset" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvenOddStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.java8.EvenOddStreams" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstNonRepeated" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.collections.FirstNonRepeated" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Java_Basic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Java_Basic" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EvenOddStreams" />
+        <item itemvalue="Application.EmployeeHashset" />
+        <item itemvalue="Application.CustomComparator" />
+        <item itemvalue="Application.FirstNonRepeated" />
+        <item itemvalue="Application.CommonElements" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09b9b469-4040-4e28-b30b-2c8e01e5b24a" name="Changes" comment="" />
+      <created>1792563651984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1792563651984</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Basic programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Basic programs" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/Largest.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/ReverseArray.java</url>
+          <line>1</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
