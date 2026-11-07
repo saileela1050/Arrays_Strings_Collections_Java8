@@ -29,8 +29,8 @@ Core Java Coding Programs
 25. Find the frequency of each element.
 26. Find the third-largest distinct element.
 27. Rotate an array by K positions.
-28. Find the majority element
-29. 3. Number Programs
+28. Find the majority element.
+3. Number Programs
 29. Check whether a number is prime.
 30. Print prime numbers within a range.
 31. Check whether a number is a palindrome.
@@ -68,4 +68,16 @@ Core Java Coding Programs
 61. Find duplicate words in a sentence using Streams.
 62. Find the top three highest-paid employees.
 63. Find the employee with the second-highest salary.
-64. Separate employees earning above and below a specified salary
+64. Separate employees earning above and below a specified salary.
+6. Essential Practical Java Problems
+65. Create an immutable class.
+66. Implement a Singleton class.
+67. Implement a custom exception.
+68. Sort custom objects using Comparable and Comparator.
+69. Demonstrate equals() and hashCode() with custom objects.
+70. Implement a simple LRU cache.
+71. Find and fix a ConcurrentModificationException.
+72. Use ExecutorService to execute multiple tasks.
+73. Implement a producer-consumer example.
+74. Execute asynchronous tasks using CompletableFuture.
+75. Demonstrate thread-safe counter implementation
