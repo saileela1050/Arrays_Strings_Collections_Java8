@@ -7,7 +7,7 @@ Core Java Coding Programs
 4. Find duplicate characters in a string.
 5. Find the first non-repeated character.
 6. Count the frequency of each character.
-7. Remove duplicate characters from a string.
+7. Remove duplicate characters from a string..
 8. Count vowels and consonants.
 9. Reverse each word in a sentence.
 10. Find the first repeated character.
