@@ -1,6 +1,7 @@
 //gcd and lcm of the given two numbers
 //output: GCD:6
 //LCM:36
+// practise
 
 package com.example.numbers;
 
